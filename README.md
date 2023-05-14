@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksa Grbić</h1>
-<h3 align="center">I am very motivated to learn and work in the fields of frontend and backend technology. My technical skills include proficiency in Java, Python, PHP, Linux, Javascript, TypeScript, HTML5, CSS3, Angular, JavaSpring, .Net, MySQL, MongoDB, OracleDB, RASA(chat-bot), Bootstrap and Agile (Scrum).</h3>
+<h3 align="center">I am very motivated to learn and work in the fields of frontend and backend technology. My technical skills include proficiency in Java, Python, PHP, Linux, Javascript, TypeScript, HTML5, CSS3, Angular, JavaSpring, .Net, C#, MySQL, MongoDB, OracleDB, RASA(chat-bot), Bootstrap and Agile (Scrum).</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" >
 
